@@ -1,4 +1,4 @@
-# Repositório, Teste!
-Preiro repositório de testes do Curso.
+# Repositório Teste!
+Primeiro repositório de testes do Curso.
 
 Teste do GitHub Desktop.
